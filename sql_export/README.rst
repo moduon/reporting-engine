@@ -119,10 +119,13 @@ promote its widespread use.
 .. |maintainer-legalsylvain| image:: https://github.com/legalsylvain.png?size=40px
     :target: https://github.com/legalsylvain
     :alt: legalsylvain
+.. |maintainer-florian-dacosta| image:: https://github.com/florian-dacosta.png?size=40px
+    :target: https://github.com/florian-dacosta
+    :alt: florian-dacosta
 
-Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
+Current `maintainers <https://odoo-community.org/page/maintainer-role>`__:
 
-|maintainer-legalsylvain| 
+|maintainer-legalsylvain| |maintainer-florian-dacosta| 
 
 This module is part of the `OCA/reporting-engine <https://github.com/OCA/reporting-engine/tree/16.0/sql_export>`_ project on GitHub.
 
