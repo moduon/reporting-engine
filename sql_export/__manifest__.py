@@ -4,7 +4,7 @@
 
 {
     "name": "SQL Export",
-    "version": "16.0.2.2.0",
+    "version": "16.0.2.2.1",
     "author": "Akretion,GRAP,Odoo Community Association (OCA)",
     "maintainers": ["legalsylvain", "florian-dacosta"],
     "website": "https://github.com/OCA/reporting-engine",
